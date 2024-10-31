@@ -1,0 +1,9 @@
+*.spec
+*.lock
+*.ui
+*.exe
+pipfile
+
+build/
+__pychache__/
+.venv/
